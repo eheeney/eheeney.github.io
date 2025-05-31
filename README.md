@@ -1,4 +1,4 @@
-# eheeney.github.io
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +53,7 @@
 <body>
 
   <header>
-    <h1>Your Name</h1>
+    <h1>Ed Heeney</h1>
     <p>Student | Researcher | Aspiring Professional</p>
     <nav>
       <a href="#about">About</a>
@@ -65,7 +65,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hello! I am a student currently studying [Your Major] at [Your University]. I'm passionate about [interests] and have been involved in several research projects related to [your field].</p>
+    <p>Hello! I am a student currently studying Theoretical physics at Trinity College Dublin. I'm passionate about Cosmology and have been involved in several research projects related to this.</p>
     <p>Connect with me on <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>.</p>
   </section>
 
